@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AB1864E4-B6B8-4CBB-9D9A-0EE1055A4358}|Default">
+  <MonoDevelop.Ide.ItemProperties.Charp_220analysis_220sample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Charp analysis sample/Program.cs">
+    <Files>
+      <File FileName="Charp analysis sample/Program.cs" Line="16" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sagiamar/Downloads/CSharp_SampleClient.ApiV3-master/Charp analysis sample/Program.cs" relfile="Charp analysis sample/Program.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CsharpBasicSampleCode PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
